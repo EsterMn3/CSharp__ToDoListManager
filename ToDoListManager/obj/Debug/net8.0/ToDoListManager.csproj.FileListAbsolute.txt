@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\ToDoListManager\bin\Debug\net8.0\ToDoListManager.exe
+C:\Users\hp\C#projects\ToDoListManager\bin\Debug\net8.0\ToDoListManager.deps.json
+C:\Users\hp\C#projects\ToDoListManager\bin\Debug\net8.0\ToDoListManager.runtimeconfig.json
+C:\Users\hp\C#projects\ToDoListManager\bin\Debug\net8.0\ToDoListManager.dll
+C:\Users\hp\C#projects\ToDoListManager\bin\Debug\net8.0\ToDoListManager.pdb
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ToDoListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ToDoListManager.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ToDoListManager.AssemblyInfo.cs
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ToDoListManager.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ToDoListManager.dll
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\refint\ToDoListManager.dll
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ToDoListManager.pdb
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ToDoListManager.genruntimeconfig.cache
+C:\Users\hp\C#projects\ToDoListManager\obj\Debug\net8.0\ref\ToDoListManager.dll
